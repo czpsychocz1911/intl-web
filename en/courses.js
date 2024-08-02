@@ -6,4 +6,6 @@ export default {
   'course.description': 'Description',
   'course.cover':'Cover',
   'course.visibility':'Select visibility option', 
+  'course.start' : 'Your course starts at',
+  'course.end' : 'Your course end at',
 }
