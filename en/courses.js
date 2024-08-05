@@ -8,4 +8,5 @@ export default {
   'course.visibility':'Select visibility option', 
   'course.start' : 'Your course starts at',
   'course.end' : 'Your course end at',
+  'course.type' : 'Select type of course',
 }
