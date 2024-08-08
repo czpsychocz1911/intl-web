@@ -15,4 +15,9 @@ export default {
   'course.forum': 'Forum',
   'course.courseMember': 'Course Members',
   'course.analytics': 'Analytics',
+  'course.lessons.newMessage': 'Create and organize your lessons for effective teaching',
+  'course.lesson.new': 'Create Lesson',
+  'course.reading.newMessage' : 'Create and organize reading assignments for your students',
+  'course.writing.new' : 'Writing Assignment',
+  'course.writing.newMessage' : 'Quickly set up and distribute writing tasks',
 }
