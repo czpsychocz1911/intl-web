@@ -9,4 +9,6 @@ export default {
   'course.start' : 'Your course starts at',
   'course.end' : 'Your course end at',
   'course.type' : 'Select type of course',
+  'course.add.module': 'Add module',
+  'course.lesson.new': 'Create Lesson',
 }
