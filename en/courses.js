@@ -11,4 +11,8 @@ export default {
   'course.type' : 'Select type of course',
   'course.add.module': 'Add module',
   'course.lesson.new': 'Create Lesson',
+  'course.curriculum': 'Curriculum',
+  'course.forum': 'Forum',
+  'course.courseMember': 'Course Members',
+  'course.analytics': 'Analytics',
 }
